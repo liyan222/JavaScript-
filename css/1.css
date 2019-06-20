@@ -1,0 +1,28 @@
+@charset "utf-8";
+div.menu2 ul
+{
+	list-style: none;
+	margin: 0px;
+	padding: 0px; 
+	width: 1000px;
+}
+{
+    float:left; 
+}
+div.menu2 a:link {
+	font-size: 20px;
+	color: #999;
+	text-decoration: none;
+}
+
+div.menu2 a:hover {
+	color: #F00;
+	display: block;
+	font-size: 22px;
+}
+div.menu2 ul li a, div.menu ul li a:visited{
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	
+}
